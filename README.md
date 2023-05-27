@@ -1,7 +1,8 @@
 # Random-minor-projects
-#Title: My Coding Playground
 
-#Description:
+## Title: My Coding Playground
+
+### Description:
 
 Welcome to my coding playground! This is where I keep all kinds of projects I work on to get better at coding. You'll find everything from tiny pieces of code that show how certain things work, to bigger projects that help me dive deeper into programming.
 
